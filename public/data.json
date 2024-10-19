@@ -1,26 +1,66 @@
 [
     {
         "id": 1,
-        "img": "https://i.ibb.co.com/6ysLXg7/1.webp",
-        "title": "SaaS",
-        "description": "Our platform offers scalable, cloud-based applications to streamline operations, enhance collaboration, and boost productivity. Experience innovation and security—partner with us for your SaaS needs!"
+        "img": "https://i.ibb.co.com/pRt71mZ/1.jpg",
+        "title": "Smartphone X",
+        "description": "Experience cutting-edge technology with Smartphone X. Stunning display, high-quality camera, battery perfect for daily use and entertainment.",
+        "category": "Electronics",
+        "price": 999
     },
     {
         "id": 2,
-        "img": "https://i.ibb.co.com/7yfKtj6/2.webp",
-        "title": "Education Management System",
-        "description": "Simplify educational management with our EMS. Handle admissions, grades, scheduling, and more with ease, empowering educators to focus on delivering quality education."
+        "img": "https://i.ibb.co.com/ypHTWRV/2.jpg",
+        "title": "Wireless Headphones",
+        "description": "Enjoy high-quality sound with premium wireless headphones. Experience complete freedom of movement for music lovers anytime.",
+        "category": "Electronics",
+        "price": 199
     },
     {
         "id": 3,
-        "img": "https://i.ibb.co.com/Z1yYnLY/3.webp",
-        "title": "LMS - Learning Management System",
-        "description": "Elevate learning experiences with our LMS. Deliver content, track progress, and boost engagement, whether for corporate training or education. Achieve your learning goals!"
+        "img": "https://i.ibb.co.com/4MtQ903/3.jpg",
+        "title": "4K Smart TV",
+        "description": "Transform home entertainment with our 4K Smart TV, featuring vivid colors, exceptional clarity, and smart features for a cinematic experience.",
+        "category": "Electronics",
+        "price": 799
     },
     {
         "id": 4,
-        "img": "https://i.ibb.co.com/Ws1y750/4.webp",
-        "title": "Web Development",
-        "description": "Create a sleek, user-friendly website to significantly boost your business's online presence and attract more customers. Our expert web development services are affordable, efficient tailored to your specific needs!"
+        "img": "https://i.ibb.co.com/J5PmhF8/4.jpg",
+        "title": "Men's Casual Shirt",
+        "description": "Stay stylish with our comfortable men’s casual shirt. Quality fabric and contemporary design elevate your everyday wardrobe for any occasion.",
+        "category": "Clothing",
+        "price": 49.99
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co.com/CQ6vjjC/5.jpg",
+        "title": "Women's Summer Dress",
+        "description": "Embrace summer warmth with our lightweight women’s dress. Perfect for beach outings or casual gatherings, and occachion keeping you chic and comfortable.",
+        "category": "Clothing",
+        "price": 69.99
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co.com/g3Wh3c4/6.jpg",
+        "title": "Kids' T-Shirt",
+        "description": "Comfortable and fun, our kids' T-shirt is perfect for playtime. Available in various colors and sizes to ensure stylish fun. Lots of collection with premium cloths.",
+        "category": "Clothing",
+        "price": 24.99
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co.com/WpGTHRR/7.jpg",
+        "title": "Gaming Laptop",
+        "description": "Unleash your gaming potential with our high-performance gaming laptop. Advanced graphics, fast processors, and stunning visuals provide immersive experiences.",
+        "category": "Electronics",
+        "price": 1499
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co.com/H4qzbNq/8.jpg",
+        "title": "Athletic Sneakers",
+        "description": "Stay active and stylish with comfortable athletic sneakers. Designed for workouts or casual outings, offering excellent support and durability for performance.",
+        "category": "Clothing",
+        "price": 89.99
     }
 ]

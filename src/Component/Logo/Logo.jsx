@@ -1,4 +1,4 @@
-import CompanyLogo from '../../../public/image/SteadFastIT_Logo_Primary_2C.png'
+import CompanyLogo from '/image/SteadFastIT_Logo_Primary_2C.png'
 const Logo = () => {
     return (
         <div>

@@ -33,7 +33,7 @@ const Services = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 max-w-7xl mx-auto gap-4 p-4">
                 {
                     services.map(service => {
-                        const { id, img, title, description } = service || {};
+                        const { id, img, title, description, price, category } = service || {};
                         return (
                             <div key={id} className="flex justify-center">
                                 <div className="card w-80 sm:w-[15rem] md:w-[18rem] lg:w-[19rem] p-3 bg-white text-black hover:bg-black hover:text-white transition duration-300 ease-in-out" data-aos="zoom-in">
@@ -41,6 +41,10 @@ const Services = () => {
                                     <div className="card-body items-center">
                                         <h2 className="text-xl font-bold text-center my-4">{title}</h2>
                                         <p className="text-justify pb-2">{description}</p>
+                                    </div>
+                                    <div className="flex justify-between">
+                                        <p className="font-bold">{category}</p>
+                                        <p className="font-bold">Price: {price}</p>
                                     </div>
                                 </div>
                             </div>

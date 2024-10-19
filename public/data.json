@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/6ysLXg7/1.webp",
+        "title": "SaaS",
+        "description": "Our platform offers scalable, cloud-based applications to streamline operations, enhance collaboration, and boost productivity. Experience innovation and security—partner with us for your SaaS needs!"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co.com/7yfKtj6/2.webp",
+        "title": "Education Management System",
+        "description": "Simplify educational management with our EMS. Handle admissions, grades, scheduling, and more with ease, empowering educators to focus on delivering quality education."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co.com/Z1yYnLY/3.webp",
+        "title": "LMS - Learning Management System",
+        "description": "Elevate learning experiences with our LMS. Deliver content, track progress, and boost engagement, whether for corporate training or education. Achieve your learning goals!"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co.com/Ws1y750/4.webp",
+        "title": "Web Development",
+        "description": "Create a sleek, user-friendly website to significantly boost your business's online presence and attract more customers. Our expert web development services are affordable, efficient tailored to your specific needs!"
+    }
+]

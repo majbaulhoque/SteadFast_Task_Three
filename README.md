@@ -11,6 +11,9 @@ A responsive navigation bar that offers links to various application parts is ca
 The brand is represented with a custom emblem that is prominently displayed in the navigation bar.
 **Services Card**: Cards that show the different services that the application offers; they are made to be easy to read and interact with.
 The **Error Page** is an easy-to-use page for 404 and other issues.
+- **Category Filter**: Users can select from various categories to narrow down the displayed services.
+- **Max Price Filter**: Users can enter a maximum price to filter services based on affordability.
+
 
 ## Technology Employed
 
